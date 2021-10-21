@@ -2,7 +2,7 @@
 Uma criação de um simples sistema de busca e carrinho de compras.
 
 # Tecnologias usadas:
-- RHTML
+- HTML
 - Javascript
 - CSS
 
